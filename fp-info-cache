@@ -1,4 +1,11 @@
-26652172580743639
+26678556212427845
+1N4007-T
+DIOAD780W78L463D236
+
+
+0
+2
+2
 215297_6
 TE_215297-6
 
@@ -20,6 +27,41 @@ TE_282837-3
 0
 3
 3
+282837-4
+TE_282837-4
+
+
+0
+4
+4
+826629-4
+TE_826629-4
+
+
+0
+4
+4
+826629-8
+TE_826629-8
+
+
+0
+8
+8
+826629-8
+TE_826629-8x2
+
+
+0
+16
+16
+1825057-2
+DIP810W60P254L1010H480Q6
+
+
+0
+6
+6
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -2827,6 +2869,13 @@ speaker CUI
 0
 2
 2
+CV28D-FCC
+LED_CV28
+RGB SMD LED — 3 rows x 2 columns, 1.2x0.5 pads, 0.3mm vertical, 1.6mm horizontal spacing
+
+0
+6
+6
 Calibration_Scale
 Gauge_10mm_Type1_CopperTop
 Gauge, Massstab, 10mm, CopperTop, Type 1,
@@ -70594,6 +70643,20 @@ Yellow 5381 Series LED
 0
 2
 2
+MTSW-101-09-G-S-104
+SAMTEC_MTSW-101-09-G-S-104
+
+
+0
+4
+4
+MTSW-101-09-G-S-104
+SAMTEC_MTSW-101-09-G-S-104x4
+
+
+0
+4
+4
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
@@ -74738,6 +74801,13 @@ DIL DIP PDIP 2.54mm 7.62mm 300mil
 0
 4
 4
+P2N2222A
+TO92
+<b>TO-92</b>
+
+0
+3
+3
 Package_BGA
 Alliance_TFBGA-36_6x8mm_Layout6x8_P0.75mm
 Alliance TFBGA-36, NSMD, 6.0x8.0mm, 36 Ball, 6x8 Layout, 0.75mm Pitch, generated with kicad-footprint-generator ipc_bga_generator.py, https://www.alliancememory.com/wp-content/uploads/pdf/AS6C1008_Mar_2023V1.2.pdf#page=13
@@ -94821,6 +94891,13 @@ WiFi IEEE802.11 b/g/n
 0
 44
 44
+RR511D1121
+E-SWITCH_RR511D1121
+
+
+0
+2
+2
 Relay_SMD
 Relay_2P2T_10x6mm_TE_IMxxG
 Signal Relay, 10x6mm, 2 Form C, Gull Wings, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Data+Sheet%7F108-98001%7FZ.1%7Fpdf%7FEnglish%7FENG_DS_108-98001_Z.1.pdf
@@ -97145,6 +97222,27 @@ rotary encoder illuminated switch vertical
 0
 9
 8
+SRD-05VDC-SL-C
+RELAY_SRD-05VDC-SL-C
+
+
+0
+5
+5
+SSW-104-01-F-S
+SAMTEC_SSW-104-01-F-S
+
+
+0
+4
+4
+SSW-104-01-F-S
+SAMTEC_SSW-104-01-F-S-RTC
+
+
+0
+4
+4
 SSW-106-01-F-S
 SSW-106-01-F-S
 translated Allegro footprint
@@ -97152,6 +97250,13 @@ translated Allegro footprint
 0
 6
 6
+SSW-108-02-G-D
+SAMTEC_SSW-108-02-G-D
+
+
+0
+16
+16
 SSW_115_01_F_S
 SAMTEC_SSW-115-01-F-S
 
