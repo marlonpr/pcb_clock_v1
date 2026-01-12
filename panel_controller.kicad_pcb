@@ -113,7 +113,7 @@
 			(mirror no)
 			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "../gerber/")
+			(outputdirectory "../gerber/gerber_reloj/")
 		)
 	)
 	(net 0 "")
@@ -169,7 +169,7 @@
 		)
 		(property "Value" "220"
 			(at 2.54 1.92 0)
-			(layer "F.Fab")
+			(layer "F.SilkS")
 			(uuid "2ef434d9-2659-44ee-9329-232341b6c8ea")
 			(effects
 				(font
@@ -331,8 +331,8 @@
 			)
 		)
 		(property "Value" "1k"
-			(at 2.58 2 0)
-			(layer "F.Fab")
+			(at 4.9208 1.9583 0)
+			(layer "F.SilkS")
 			(uuid "5693c486-ebbe-4b81-a647-7da7222a6b23")
 			(effects
 				(font
@@ -495,7 +495,7 @@
 		)
 		(property "Value" "220"
 			(at 2.54 1.92 0)
-			(layer "F.Fab")
+			(layer "F.SilkS")
 			(uuid "9f3fb886-aa92-4dd6-8fbc-7fdc7340d808")
 			(effects
 				(font
@@ -1255,7 +1255,7 @@
 		)
 		(property "Value" "220"
 			(at 2.54 1.92 0)
-			(layer "F.Fab")
+			(layer "F.SilkS")
 			(uuid "f8bf9166-db1e-4f66-912e-02ed84cb72e6")
 			(effects
 				(font
@@ -2775,8 +2775,8 @@
 			)
 		)
 		(property "Value" "1k"
-			(at 2.54 1.92 0)
-			(layer "F.Fab")
+			(at 4.9075 1.9416 0)
+			(layer "F.SilkS")
 			(uuid "f8fa2f50-5f07-4410-a6e6-286ea84cb8b4")
 			(effects
 				(font
@@ -4626,8 +4626,8 @@
 			)
 		)
 		(property "Value" "4.7k"
-			(at 2.54 1.92 0)
-			(layer "F.Fab")
+			(at 4.8808 1.9083 0)
+			(layer "F.SilkS")
 			(uuid "7927e007-49b6-4194-b4d7-b0a005060836")
 			(effects
 				(font
@@ -7623,8 +7623,8 @@
 			)
 		)
 		(property "Value" "1k"
-			(at 2.54 1.92 0)
-			(layer "F.Fab")
+			(at 4.7475 1.925 0)
+			(layer "F.SilkS")
 			(uuid "40903b6d-5134-4ac4-b38a-3e00e8235454")
 			(effects
 				(font

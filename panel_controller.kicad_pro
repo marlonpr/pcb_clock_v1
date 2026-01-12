@@ -514,7 +514,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "../gerber/",
+      "plot": "../gerber/gerber_reloj/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
